@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bus_stop/Bus_stop"
+	"$pointsamplemagfilter" "1"
+}

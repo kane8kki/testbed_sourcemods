@@ -1,0 +1,84 @@
+qdir:    "c:\program files (x86)\steam\steamapps\sourcemods\testbed\modelsrc\bus_stop\bus_stop_01_ad\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\"
+g_path:  "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\modelsrc\bus_stop\Bus_stop_01_ad\Bus_stop_01_ad.qc"
+Building binary model files...
+Working on "Bus_stop_01_ad.qc"
+SMD MODEL bus_stop_01_ad.smd
+SMD MODEL bus_stop_01_ad_colls.smd
+SMD MODEL anims/idle.smd
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of bus_stop_01_ad_colls.smd, building single convex!!!!
+Model has 3 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/Bus_stop_01_ad.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+bone flex driver       0 bytes
+Collision model volume 51759.60 in^3
+collision        0 bytes
+total         1760
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/Bus_stop_01_ad.vvd:
+vertices      3456 bytes (72 vertices)
+tangents      1152 bytes (72 vertices)
+total         4672 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/Bus_stop_01_ad.sw.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:            648 bytes
+indices:          312 bytes
+bone changes:      16 bytes
+everything:      1101 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/Bus_stop_01_ad.dx80.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:            648 bytes
+indices:          312 bytes
+bone changes:      16 bytes
+everything:      1101 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/Bus_stop_01_ad.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:            648 bytes
+indices:          312 bytes
+bone changes:      16 bytes
+everything:      1101 bytes
+
+Completed "Bus_stop_01_ad.qc"
+
+
+

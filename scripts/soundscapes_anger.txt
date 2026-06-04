@@ -1,0 +1,17 @@
+"Industrial"
+{
+    "dsp" "5"
+    "dsp_volume" "5.0"
+    "playlooping"
+    {
+        "volume" "0.7"
+        "wave" "soundscapes\anger\IndustrialAmbience.wav"
+	"pitch"	"100"
+    }
+}
+
+"NoDSP"
+{
+    "dsp" "0"
+    "dsp_volume" "0"
+}

@@ -1,0 +1,112 @@
+qdir:    "c:\program files (x86)\steam\steamapps\sourcemods\testbed\modelsrc\bus_stop\house\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\"
+g_path:  "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\modelsrc\bus_stop\House\House.qc"
+Building binary model files...
+Working on "House.qc"
+SMD MODEL House.smd
+SMD MODEL House_colls.smd
+SMD MODEL anims/idle.smd
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of House_colls.smd, building single convex!!!!
+Model has 11 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/House.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures       336 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+bone flex driver       0 bytes
+Collision model volume 52564640.00 in^3
+collision        0 bytes
+total         2508
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/House.vvd:
+vertices     21120 bytes (440 vertices)
+tangents      7040 bytes (440 vertices)
+total        28224 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/House.sw.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            45 bytes
+strip groups:     125 bytes
+strips:           135 bytes
+verts:           3942 bytes
+indices:         1836 bytes
+bone changes:      48 bytes
+everything:      6195 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/House.dx80.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            45 bytes
+strip groups:     125 bytes
+strips:           135 bytes
+verts:           3942 bytes
+indices:         1836 bytes
+bone changes:      48 bytes
+everything:      6195 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\testbed\models/bus_stop/House.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            45 bytes
+strip groups:     125 bytes
+strips:           135 bytes
+verts:           3942 bytes
+indices:         1836 bytes
+bone changes:      48 bytes
+everything:      6195 bytes
+
+Completed "House.qc"
+
+
+

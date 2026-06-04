@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bus_stop/Plants_02"
+	"$alphatest" 1
+}

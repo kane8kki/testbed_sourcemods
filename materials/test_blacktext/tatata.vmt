@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{
+    "$baseTexture" "test_blacktext/tatata"
+    "$translucent" "1"
+    "Proxies"
+    {
+        "AnimatedTexture"
+        {
+            "animatedTextureVar" "$basetexture"
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate" "24"
+        }
+    }
+}

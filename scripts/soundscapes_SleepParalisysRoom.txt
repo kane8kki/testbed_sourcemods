@@ -1,0 +1,18 @@
+"unease"
+{
+    "dsp" "17"
+    "playlooping"
+    {
+        "volume" "0.3"
+        "wave" "soundscapes\SleepParalisysRoom\ticking_clock.wav"
+	"pitch"	"100"
+	"position "0"
+    }
+    "playlooping"
+    {
+        "volume" "0.3"
+        "wave" "soundscapes\SleepParalisysRoom\LampBuzz.wav"
+	"pitch"	"100"
+	"position "1"
+    }
+}

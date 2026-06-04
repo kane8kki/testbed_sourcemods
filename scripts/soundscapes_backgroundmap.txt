@@ -1,0 +1,10 @@
+"cozyambience"
+{
+    "dsp" "8"
+    "playlooping"
+    {
+        "volume" "0.3"
+        "wave" "thinktime.wav"
+		"pitch"		"100"
+    }
+}

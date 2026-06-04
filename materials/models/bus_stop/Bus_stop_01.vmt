@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bus_stop/Bus_stop_01"
+	"$selfillum" 1
+    "$selfillummask" "models/bus_stop/Bus_stop_01_emissor"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bus_stop/fence_metal"
+	"$alphatest" 1
+}

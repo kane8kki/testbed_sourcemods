@@ -1,0 +1,11 @@
+"largeVoid"
+{
+    "dsp" "7"
+    "dsp_volume" "5"
+}
+
+"NoDSP"
+{
+    "dsp" "0"
+    "dsp_volume" "0"
+}
